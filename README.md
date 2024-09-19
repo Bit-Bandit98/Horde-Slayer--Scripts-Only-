@@ -2,6 +2,8 @@
  
 Scripts respository of Horde slayer; a top down zombie shooter game. More info can be found here: https://bit-bandit98.github.io/Projects/HordeSlayer.html
 
+Please note that some scripts are missing as they are not my property.
+
 # Code Reflection
 
 - Good attempt at using inheritance to reuse code for the enemy and player classes.
