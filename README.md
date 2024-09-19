@@ -12,3 +12,4 @@ Please note that some scripts are missing as they are not my property.
 - Too much is hardcoded, leading to limited extensibility.
 - Powerups should be created on a class by class basis. For example, the "Haste" powerful, which increases speed, should potentially be a class that inherents a powerup class or interface.
 - Powerups should **not** alter the player's stats directly, but instead be a supplement to it. For example, a mediator class that returns the player's stats with powerups as a factor would work much better, lest there be side effects.
+A good go at code organisation that formed the basis for my further education in developing a future extendable, robust, and reactive code base.
